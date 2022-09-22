@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingrexicon
 - 👀 I’m interested in Anything Tech
-- 🌱 I’m currently learning jaaScript
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me @kingrexicon on twitter & +2349065189953
 
