@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kingrexicon
-- 👀 I’m interested in Anything Tech
+- 👀 I’m a Techie web Developer
 - 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can reach me @kingrexicon on twitter & +2349065189953
